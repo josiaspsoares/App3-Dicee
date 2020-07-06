@@ -1,6 +1,7 @@
 # Dicee
 
 Aplicativo de dados em Las Vegas. Você pode fazer a face do dado mudar com o pressionar de um botão.
+https://video.google.com/ThumbnailServer2?app=blogger&contentid=296cd5f8d480a24d&offsetms=5000&itag=w320&expire=1594087843&sigh=l_FLaAFIzxxeLNgq5LK8T9ruWv8
 
 <div align="center">
     <img src="https://1.bp.blogspot.com/-uPsq9oDY3Hk/XwN1ffqDv2I/AAAAAAAASq4/XzS_GqjD-cARWqz1NnfySQIUY-B2rFpJACK4BGAsYHg/s535/Capture.JPG" width="400px"</img> 
