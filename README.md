@@ -1,6 +1,10 @@
-# dicee_flutter
+# Dicee
 
-Aplicativo de dados em Las Vegas. Você pode fazer o rolo rolar com o pressionar de um botão. Com este aplicativo no seu bolso, você poderá acertar qualquer pontuação em qualquer lugar
+Aplicativo de dados em Las Vegas. Você pode fazer a face do dado mudar com o pressionar de um botão.
+
+<div align="center">
+    <img src="https://1.bp.blogspot.com/-uPsq9oDY3Hk/XwN1ffqDv2I/AAAAAAAASq4/XzS_GqjD-cARWqz1NnfySQIUY-B2rFpJACK4BGAsYHg/s535/Capture.JPG" width="400px"</img> 
+</div>
 
 ## Getting Started
 
